@@ -47,9 +47,10 @@ The dataset was prepared using Power Query and involved several transformation s
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Consolidated View
-Provides an overview of ER performance including:
+
 ![Consolidated View](dashboards/Consolidated%20View.PNG)
 
+Provides an overview of ER performance including:
 - Total number of patients
 - Average wait time
 - Patient satisfaction score
@@ -59,9 +60,10 @@ Provides an overview of ER performance including:
 - Peak visit times
 
 ### 2️⃣ Monthly View
-Allows detailed analysis for a selected month, including:
+
 ![Monthly View](dashboards/Monthly%20View.PNG)
 
+Allows detailed analysis for a selected month, including:
 - Monthly patient volume
 - Average wait time
 - Monthly satisfaction score
@@ -70,9 +72,10 @@ Allows detailed analysis for a selected month, including:
 - Hourly patient traffic
 
 ### 3️⃣ Patient Details
-A detailed table view containing patient-level information such as:
+
 ![Patient Details](dashboards/Patient%20Details.PNG)
 
+A detailed table view containing patient-level information such as:
 - Patient ID
 - Age
 - Gender
